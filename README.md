@@ -27,6 +27,13 @@ Temperature and humidity sensor(if required)<br>
 Remote control<br>
 The solar panel charges the battery through the charge controller. The microcontroller controls the motor driver and water pump, based on the readings from the soil moisture sensor and temperature and humidity sensor. The remote control allows you to manually control the water pump.<br>
 
+<h5>How to Get Started:</h5>
+
+1. Clone the repository<br>
+2. Install dependencies (list provided in the documentation)<br>
+3. Follow step-by-step instructions in the documentation<br>
+4. Customize settings to fit your garden's needs<br>
+
 <h5>Instructions:</h5><br>
 
 Set up the hardware components as shown in the circuit diagram provided.<br>
