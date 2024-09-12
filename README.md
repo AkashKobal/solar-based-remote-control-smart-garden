@@ -1,4 +1,5 @@
 # Solar-Based Remote Control Smart Garden with Raspberry Pi 🌞🌱
+![](https://github.com/AkashKobal/solar-based-remote-control-smart-garden/blob/main/Project%20Image.jpg)
 
 🌞🌿 <h5>Welcome to the Solar Smart Garden project!</h5> 
 🚀 Harness the power of the sun with our solar-based solution, utilizing Raspberry Pi for intelligent garden management.<br>
